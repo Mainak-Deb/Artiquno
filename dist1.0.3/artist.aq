@@ -1,0 +1,14 @@
+// BUNCH->SUDIP{
+//     @v=TAKE[["Enter a number"]];
+//     WRITE->[["The intput is "+str(@v)+"\n"]];
+//     @v=[[int(@v)]];
+//     LOOP(360){
+//         >>2;
+//         ^^1;
+//     };
+// };
+// <SUDIP> ;
+LOOP(6){
+    WRITE->[["e"]];
+};
+
